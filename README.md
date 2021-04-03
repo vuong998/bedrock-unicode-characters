@@ -103,3 +103,6 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 |       Right Trigger Button       |     Rift     |          |  U+E0E8 |            ![](./images/rift-rt.png)           |
 |             X Button             |     Rift     |          |  U+E0E9 |            ![](./images/rift-x.png)            |
 |             Y Button             |     Rift     |          |  U+E0EA |            ![](./images/rift-y.png)            |
+
+## Full Chacter
+This is full characters icon: 
